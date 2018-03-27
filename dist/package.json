@@ -1,0 +1,10 @@
+{
+"name": "CoinBasket",
+"version": "1.0.0",
+"description": "Buy crypto from baskets",
+"author": "CoinBasket <mikegonnacrypto@gmail.com>",
+"private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}

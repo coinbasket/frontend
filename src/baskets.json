@@ -1,0 +1,23 @@
+{
+   "income": {
+        "logo": "bitcoin",
+        "id": "income",
+        "title": "Income",
+        "price": "$50",
+        "description": "Heavy in major coins, light on altcoins."
+   },
+   "balanced": {
+        "logo": "ethereum",
+        "id": "balanced",
+        "title": "Balanced",
+        "price": "$50",
+        "description": "A balance between the \"big names\" and some new comers."
+   },
+   "growth": {
+       "logo": "ripple",
+       "id": "growth",
+       "title": "Growth",
+       "price": "$50",
+        "description": "Aggressive."
+   }
+}
